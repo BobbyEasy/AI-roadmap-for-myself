@@ -321,7 +321,7 @@ https://github.com/apachecn/AiLearning
 
 ### 其他补充
 
-#### 怒刷LeetCode计划
+#### LeetCode基础过关
 
 #### 机器学习四门一样
 
